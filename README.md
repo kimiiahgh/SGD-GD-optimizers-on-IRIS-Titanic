@@ -1,1 +1,2 @@
 # SGD-and-GD-optimizers-on-IRIS-and-Titanic-datasets
+We have developed two netwokrs with three hidden layers on IRIS and Titanic datasets using SGD and GD as optimizers under different conditions: 1)using linear active function 2)using sigmoid as active function and softmax function for the last layer. Moreover, the purpose is to show the impact of various optimizers in addition to the difference of linear and non-linear models.
